@@ -1,0 +1,73 @@
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    margin: 2px auto 2px auto;
+    width: 90%;
+    background-color: #eee;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.search-bar {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search-btns {
+    text-align: center;
+}
+
+footer {
+    font-size: 16px;
+    width: 90%;
+    margin: 2px auto 2px auto;
+    display: flex;
+    justify-content: center;
+}
+
+.section-1 {
+    margin-right: 2px;
+    width: 37%;
+    background-color: #7EE5DA;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.section-2 {
+    font-size: 12px;
+    margin-right: 2px;
+    width: 19%;
+    padding-top: 8px;
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+.section-3 {
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 1px;
+    width: 44%;
+    background-color: #62B3AA;
+    text-align: center;
+}
+
+.copyright {
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 12px;
+    font-size: 12px;
+}
