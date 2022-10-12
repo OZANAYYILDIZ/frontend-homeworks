@@ -1,0 +1,34 @@
+body {
+    background: #efefef;
+    padding-top: 60px; /* Navigasyonun altında kalmaması için bırakılan padding */
+}
+
+#nav-div {
+    background-color: #FFF;
+    border-bottom: 0.6px solid #cfcfcf;
+}
+
+.border {
+    border-color: 0.6px solid #cfcfcf;
+}
+
+#status-section {
+    border-radius: 5px;
+    background: #fff;
+}
+
+.card {
+    border: none;
+}
+
+#content {
+    border-radius: 5px;
+}
+
+.contentul {
+    display: flex;
+}
+
+.contentli {
+    list-style: none;
+}
