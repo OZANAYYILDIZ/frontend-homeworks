@@ -7,7 +7,7 @@ let shownName = document.querySelector("#full-name")
 shownName.innerHTML = fullName
 
 function updateClock() { // saatin her saniye güncellenmesi için yazılan function
-    // bilgisayarın tarihini alır. Kaynak stackoverflow
+    // bilgisayarın tarihini alır.
     let now = new Date();
     // bilgisayardan aldığı tarih bilgisini string e çevirir.
     let dateString = now.toDateString();
